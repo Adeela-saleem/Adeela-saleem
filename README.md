@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me
 
 * 🎓 Pursuing a degree in **Computer Science**
-* 🤖 Aspiring **Machine Learning Engineer / Data Scientist**
+* 🤖 Aspiring **Machine Learning Engineer**
 * 📊 Skilled in **Data Cleaning, Data Visualization, and ML Fundamentals**
 * * 💻 Background knowledge of **Frontend Development (HTML, CSS, JS, React)**
 * 📧 Reach me at: **[adeela88sal@gmail.com](mailto:adeela88sal@gmail.com)**
