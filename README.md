@@ -17,11 +17,11 @@
 
 ## 🚀 Skills
 
-* **Frontend Development:** HTML, CSS, JavaScript
 * **Programming Languages:** Java, Python
 * **Database Systems:** MySQL, MongoDB, NoSQL, MS Access, XAMPP
 * **Version Control:** Git, GitHub
 * **Design Tools:** Figma, Adobe Photoshop, Canva
+* **Frontend Development:** HTML, CSS, JavaScript
 
 ---
 
