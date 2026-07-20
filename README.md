@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adeela Saleem 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Machine+Learning+Engineer;Frontend+Developer+Intern+%40+Zero+Vertical+Labs;Learning+Java+%2B+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Machine+Learning+Engineer;Frontend+Developer+Intern+%40+Zero+Vertical+Labs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,19 +23,47 @@
 * 💼 **Frontend Developer Intern** at **Zero Vertical Labs** — React, Tailwind CSS
 * 🤖 Aspiring **Machine Learning Engineer**
 * 📊 Skilled in **Data Cleaning, Data Visualization, and ML Fundamentals**
-* 💻 Background in **Frontend Development** (HTML, CSS, JS, React)
 * 📧 Reach me at: **[adeela88sal@gmail.com](mailto:adeela88sal@gmail.com)**
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,html,css,js,mysql,mongodb,git,github,figma,vscode" />
+**Languages**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-**Database Systems:** MySQL · MongoDB · NoSQL · MS Access · XAMPP
-**Design Tools:** Figma · Adobe Photoshop · Canva
+**Frontend**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+**Database**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+</p>
+
+**Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zoho-C8202F?style=for-the-badge&logo=zoho&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 
 ---
 
@@ -43,18 +71,8 @@
 
 * 🔬 Deepening knowledge in **Machine Learning** (completed up to **Regularization** — theory & implementation)
 * 📊 Hands-on with **pandas**, **NumPy**, **Matplotlib**, and **Seaborn** for data analysis & visualization
-* ☕ Learning **Java + Spring Boot** for backend development
 * 🌟 Strengthening **Data Structures and Algorithms (DSA)** for problem-solving
 * 🚀 Exploring projects that combine **Web + ML**
-
----
-
-### 🔥 Recently Built
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Study Buddy](https://github.com/Adeela-saleem/REPO-NAME)** | RAG-based study assistant — chat with your notes/PDFs | React, FastAPI, ChromaDB, Groq |
-| **[AI Job Hunting Assistant](https://github.com/Adeela-saleem/REPO-NAME)** | Multi-agent system: Job Scout, CV Tailor, Apply Agent | React, FastAPI, Groq |
 
 ---
 
@@ -96,19 +114,6 @@ Since I lost my previous GitHub work 😅, I'm rebuilding and uploading my ML pr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeela-saleem&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adeela-saleem-a89414277/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:adeela88sal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
 <p align="center">
   ✨ Always learning, building, and growing as a developer. Excited to share my journey here on GitHub!
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adeela-saleem&style=flat-square&color=6C63FF" alt="profile views"/>
 </p>
