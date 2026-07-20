@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adeela Saleem 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Machine+Learning+Engineer;Frontend+Developer+Intern+%40+Zero+Vertical+Labs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Machine+Learning+Engineer;Software+Developer+Intern+%40+Zero+Vertical+Labs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ### 👩‍💻 About Me
 
 * 🎓 Pursuing a degree in **Computer Science** (BSCS, Jinnah University for Women)
-* 💼 **Frontend Developer Intern** at **Zero Vertical Labs** — React, Tailwind CSS
+* 💼 **Software Developer Intern** at **Zero Vertical Labs** — React, Tailwind CSS
 * 🤖 Aspiring **Machine Learning Engineer**
 * 📊 Skilled in **Data Cleaning, Data Visualization, and ML Fundamentals**
 * 📧 Reach me at: **[adeela88sal@gmail.com](mailto:adeela88sal@gmail.com)**
@@ -100,6 +100,20 @@ Since I lost my previous GitHub work 😅, I'm rebuilding and uploading my ML pr
 6. **Classification Models** — Logistic Regression, Decision Trees, Random Forests
 7. **Clustering & Dimensionality Reduction** — KMeans, PCA
 8. **Neural Networks Basics**
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adeela-saleem&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeela-saleem&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
