@@ -20,7 +20,7 @@
 ### 👩‍💻 About Me
 
 * 🎓 Pursuing a degree in **Computer Science** (BSCS, Jinnah University for Women)
-* 💼 **Software Developer Intern** at **Zero Vertical Labs** — React, Tailwind CSS
+* 💼 **Software Developer Intern** at **Zero Vertical Labs** 
 * 🤖 Aspiring **Machine Learning Engineer**
 * 📊 Skilled in **Data Cleaning, Data Visualization, and ML Fundamentals**
 * 📧 Reach me at: **[adeela88sal@gmail.com](mailto:adeela88sal@gmail.com)**
@@ -83,7 +83,6 @@
 
 * 🔬 Deepening knowledge in **Machine Learning** (completed up to **Regularization** — theory & implementation)
 * 📊 Hands-on with **pandas**, **NumPy**, **Matplotlib**, and **Seaborn** for data analysis & visualization
-* 🌟 Strengthening **Data Structures and Algorithms (DSA)** for problem-solving
 * 🚀 Exploring projects that combine **Web + ML**
 
 ---
